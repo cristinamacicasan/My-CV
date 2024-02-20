@@ -1,0 +1,286 @@
+body {
+    background-color: #E5E5E5;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Rightsection styles */
+.right-section {
+    padding-left: 90px;
+    padding-right: 220px;
+    background-color: white;
+}
+
+.about-me-preofesion {
+    color: black;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+#personName {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    margin-top: 30px;
+}
+
+
+.main-section {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 40px auto;
+}
+
+.about-me-section {
+
+    padding-top: 15px;
+    padding-right: 15px;
+    width: 400px;
+}
+
+.about-me-section p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin-top: 50px;
+}
+
+.projects-section {
+    margin: 40px 0 0 0;
+}
+
+.block-title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+}
+
+.projects-section ol {
+    padding-left: 18px;
+}
+
+ol li,
+.bracket {
+    font-weight: 700;
+    color: #000;
+}
+
+
+
+
+.projects-item {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration-line: underline;
+    color: #595959;
+    margin-left: 10px;
+}
+
+.projects-item a {
+    color: #595959;
+}
+
+.work-experience-section {
+    margin-top: 50px;
+}
+
+.work-experience-position {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.work-experience-company {
+    color:
+        #FB6D3A;
+}
+
+.work-eperience-period {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+}
+
+.line-break {
+    color: #000;
+}
+
+.work-experience-duties {
+    padding-left: 18px;
+}
+
+.work-experience-duties li {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.education-section {
+    margin-bottom: 110px;
+    margin-top: 40px;
+}
+
+.block-title {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+}
+
+.numele-universitatii {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FB6D3A;
+}
+
+.numele-universitatii {
+    margin-top: 10px;
+    margin-bottom: 11px;
+}
+
+.numele-universitatii {
+    width: 160px;
+    height: 20px;
+    left: 498px;
+    top: 1177px;
+}
+
+.sectiune-universitate {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
+
+.sectiune-universitate {
+    width: 99px;
+    height: 17px;
+    left: 498px;
+    top: 1208px;
+
+}
+
+.education-period {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+}
+
+.education-period {
+    width: 242px;
+    height: 15px;
+    left: 498px;
+    top: 1237px;
+}
+
+.line-break {
+    color: #000;
+}
+
+/* sidebar styles */
+.sidebar-section {
+    background-color: #1E2939;
+    width: 370px;
+}
+
+.sidebar-section img {
+    border-radius: 50%;
+    margin-top: 40px;
+}
+
+.sidebar-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: white;
+}
+
+hr{
+    margin-left: 0px;
+    width: 270px;
+}
+
+.contact-section,
+.tech-skills-section,
+.soft-skills-section {
+    margin-left: 40px;
+}
+
+.contact-section-type {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: white;
+    margin-right: 10px;
+
+}
+
+.contact-section-value {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #565E6A;
+
+
+}
+
+.sidebar-list {
+    color: #FB6D3A;
+    padding-left: 20px;
+    margin-left: 0px;
+}
+
+.sidebar-list span {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: white;
+}
+
+.sidebar-list {
+    color: #FB6D3A;
+    padding-left: 20px;
+}
+
+.sidebar-list span {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: white;
+}
