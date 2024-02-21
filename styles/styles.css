@@ -14,7 +14,7 @@ body {
     color: black;
     font-style: normal;
     font-weight: 700;
-    font-size: 14px;
+    font-size: 20px;
     line-height: 17px;
 }
 
@@ -22,9 +22,11 @@ body {
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 700;
-    font-size: 45px;
+    font-size: 60px;
     line-height: 55px;
-    margin-top: 30px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    width: 700px;
 }
 
 
@@ -50,6 +52,7 @@ body {
     line-height: 24px;
     color: #595959;
     margin-top: 50px;
+    width: 700px;
 }
 
 .projects-section {
@@ -91,6 +94,17 @@ ol li,
 
 .projects-item a {
     color: #595959;
+}
+
+.details-projects{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin-left: 25px;
+    margin-top: 0px;
 }
 
 .work-experience-section {
