@@ -258,9 +258,13 @@ hr{
 
 }
 
+.sidebar-list li {
+    list-style: none;
+}
+
 .sidebar-list {
     color: #FB6D3A;
-    padding-left: 20px;
+    padding-left: 0px;
     margin-left: 0px;
 }
 
@@ -274,7 +278,7 @@ hr{
 
 .sidebar-list {
     color: #FB6D3A;
-    padding-left: 20px;
+    padding-left: 0px;
 }
 
 .sidebar-list span {
